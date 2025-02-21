@@ -1,7 +1,7 @@
 🗣️ Meeting Assistant
 
-📌 Watch the Project Demo
-
+📌 Watch the Project Demo : 
+https://drive.google.com/file/d/1xvD_ewz8XIi89d3r0yQF3YIpmf9-tRn8/view?usp=sharing
 
 
 🚀 Project Overview
